@@ -5,7 +5,7 @@ class Dashboard extends Component {
         return (
         <div>
             <h1>React jest supper </h1>
-            <p>fajna sobota</p>
+            <p>fajna niedziela</p>
         </div>
     );
     }
